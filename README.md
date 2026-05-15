@@ -80,7 +80,7 @@
 
 
 
-
+---
 
 
 ## 📈 Activity Graph
@@ -120,5 +120,5 @@
 ---
 
 <p align="center">
-  🔥 Clean code. Scalable systems. Real impact. 🔥
+⚡ CODE • CREATE • EVOLVE • REPEAT ⚡
 </p>
