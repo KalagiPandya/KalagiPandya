@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;AI+%26+Data+Enthusiast;System+Design+Learner;Always+Building+Real+World+Projects" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:8A2BE2&height=4" />
-</p>
+---
 
 ## 👨‍💻 About Me
 
@@ -17,27 +15,24 @@
 💬 Ask me about MERN, Firebase, MongoDB, SQL, APIs  
 ⚡ Fun fact: I enjoy turning ideas into production-ready systems  
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F5FF&height=4" />
-</p>
+---
 
-## ✨ GitHub Stats (Stable Version)
+## ✨ GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KalagiPandya&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalagiPandya&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KalagiPandya&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:8A2BE2&height=4" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KalagiPandya&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KalagiPandya&theme=tokyonight" />
 </p>
 
-## ⚒️ Tech Stack
+---
 
-<p align="left">
+## 💻 Tech Stack
+
+<p align="center">
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
@@ -82,19 +77,18 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F5FF&height=4" />
 </p>
 
-## 📈 GitHub Activity
+---
+
+
+
+
+## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KalagiPandya&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KalagiPandya&theme=tokyo-night" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalagiPandya&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:8A2BE2&height=4" />
-</p>
+---
 
 ## 🏆 GitHub Achievements
 
@@ -102,19 +96,19 @@
   <img src="https://github-profile-trophy.vercel.app/?username=KalagiPandya&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F5FF&height=4" />
-</p>
+---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 <p align="center">
-  🔹 FruitFlow Game (Interactive Web Game built with modern web technologies)
+
+🔹 AI Chat Application (MERN + OpenAI)  
+🔹 E-Commerce Platform (Full Stack MERN)  
+🔹 Data Analytics Dashboard (Power BI + SQL)  
+
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:8A2BE2&height=4" />
-</p>
+---
 
 ## ✨ Dev Quote
 
@@ -125,5 +119,5 @@
 ---
 
 <p align="center">
-  ⚡ CODE • CREATE • EVOLVE • REPEAT ⚡
+  🔥 Clean code. Scalable systems. Real impact. 🔥
 </p>
