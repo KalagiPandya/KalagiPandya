@@ -1,7 +1,7 @@
 # 💫 Hi, I'm Kalagi Pandya
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;AI+%26+Data+Enthusiast;System+Design+Learner;Always+Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;AI+%26+Data+Enthusiast;System+Design+Learner;" />
 </p>
 
 ---
