@@ -21,15 +21,14 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F5FF&height=4" />
 </p>
 
-## ✨ GitHub Insights
+## ✨ GitHub Stats (Stable Version)
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KalagiPandya&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KalagiPandya&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KalagiPandya&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KalagiPandya&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalagiPandya&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -83,25 +82,18 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F5FF&height=4" />
 </p>
 
-## 📊 GitHub Analytics
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KalagiPandya&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalagiPandya&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:8A2BE2&height=4" />
-</p>
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KalagiPandya&theme=tokyo-night" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F5FF&height=4" />
 </p>
 
 ## 🏆 GitHub Achievements
@@ -111,7 +103,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:8A2BE2&height=4" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F5FF&height=4" />
 </p>
 
 ## 🚀 Featured Project
@@ -121,7 +113,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F5FF&height=4" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:8A2BE2&height=4" />
 </p>
 
 ## ✨ Dev Quote
