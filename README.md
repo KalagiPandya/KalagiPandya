@@ -9,10 +9,15 @@
 ## 👨‍💻 About Me
 
 💻 MERN Stack Developer focused on scalable web applications  
+
 🚀 Passionate about Full Stack Development + AI integration  
+
 🌱 Currently learning Generative AI, Data Analytics & System Design  
+
 🤝 Open to collaborating on innovative real-world projects  
+
 💬 Ask me about MERN, Firebase, MongoDB, SQL, APIs  
+
 ⚡ Fun fact: I enjoy turning ideas into production-ready systems  
 
 ---
@@ -73,11 +78,7 @@
 
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F5FF&height=4" />
-</p>
 
----
 
 
 
