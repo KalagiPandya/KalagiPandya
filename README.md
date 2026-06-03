@@ -24,9 +24,7 @@
 
 ## ✨ GitHub Insights
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KalagiPandya&theme=tokyonight" />
-</p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KalagiPandya&theme=tokyonight" />
