@@ -26,10 +26,6 @@
 
 
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KalagiPandya&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KalagiPandya&theme=tokyonight" />
-</p>
 
 ---
 
@@ -91,11 +87,11 @@
 
 ## 🏆 GitHub Achievements
 
-## 🏆 GitHub Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KalagiPandya&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KalagiPandya&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KalagiPandya&theme=tokyonight" />
 </p>
+
 
 
 ---
