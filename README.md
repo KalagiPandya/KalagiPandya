@@ -91,17 +91,29 @@
 
 ---
 
-## 🏆 GitHub Achievements
+
+## 🚀 My Developer Journey
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=KalagiPandya&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"
-    alt="GitHub Achievements"
-    width="100%">
+  <img src="https://img.shields.io/badge/01-MERN%20Stack-0A192F?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  &nbsp; ➜ &nbsp;
+  <img src="https://img.shields.io/badge/02-Generative%20AI-0A192F?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
+  &nbsp; ➜ &nbsp;
+  <img src="https://img.shields.io/badge/03-RAG%20%26%20LLMs-0A192F?style=for-the-badge&logo=langchain&logoColor=00D4AA" />
+  &nbsp; ➜ &nbsp;
+  <img src="https://img.shields.io/badge/04-Data%20Analytics-0A192F?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
 </p>
 
----
+<p align="center">
+  <b>From building full-stack applications to exploring AI-powered solutions and data-driven insights.</b>
+</p>
 
+<p align="center">
+  <i>Learning continuously. Connecting ideas. Turning data and AI into meaningful solutions.</i>
+</p>
+
+
+---
 
 
 ## ✨ Dev Quote
