@@ -80,14 +80,31 @@
 
 ---
 
-## 📈 GitHub Stats
+
+---
+
+## 💠 Contribution Animation
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KalagiPandya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Kalagi's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalagiPandya&layout=compact&theme=tokyonight" alt="Kalagi's Top Languages" />
+  <img
+    src="https://raw.githubusercontent.com/KalagiPandya/KalagiPandya/output/github-snake-dark.svg"
+    alt="Animated GitHub Contribution Snake"
+    width="100%">
 </p>
 
 ---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.screw-hand.com/?username=KalagiPandya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
+    alt="GitHub Achievements"
+    width="100%">
+</p>
+
+---
+
 
 
 ## ✨ Dev Quote
