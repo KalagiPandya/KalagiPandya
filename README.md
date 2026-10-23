@@ -78,14 +78,17 @@
 
 ---
 
+---
 
-## 📈 Activity Graph
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KalagiPandya&theme=tokyo-night" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KalagiPandya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Kalagi's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalagiPandya&layout=compact&theme=tokyonight" alt="Kalagi's Top Languages" />
 </p>
 
 ---
+
 
 ## ✨ Dev Quote
 
