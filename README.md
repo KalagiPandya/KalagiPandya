@@ -106,7 +106,7 @@
     </td>
     <td align="center" width="50%" valign="top">
       <br/>
-      <img src="https://skillicons.dev/icons?i=openai&theme=dark" height="55" alt="OpenAI icon"/>
+      <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" height="55" alt="Artificial Intelligence icon"/>
       <h3>02. Generative AI</h3>
       <img src="https://img.shields.io/badge/Generative%20AI-8B5CF6?style=for-the-badge" alt="Generative AI"/>
       <br/><br/>
