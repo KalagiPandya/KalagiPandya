@@ -91,29 +91,46 @@
 
 ---
 
-
 ## 🚀 My Developer Journey
 
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>💻 01. MERN Stack</h3>
+      <img src="https://img.shields.io/badge/Full--Stack%20Development-0A192F?style=flat-square&logo=react&logoColor=61DAFB" />
+      <p>Building responsive web applications, backend APIs, and full-stack solutions.</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🤖 02. Generative AI</h3>
+      <img src="https://img.shields.io/badge/LLMs%20%26%20AI%20Agents-282044?style=flat-square&logo=openai&logoColor=FFFFFF" />
+      <p>Exploring LLMs, prompt engineering, and intelligent AI-powered applications.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🔎 03. RAG & LLMs</h3>
+      <img src="https://img.shields.io/badge/Knowledge%20Retrieval-163D3B?style=flat-square&logo=langchain&logoColor=62E6C5" />
+      <p>Connecting language models with relevant knowledge through retrieval and vector search.</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>📊 04. Data Analytics</h3>
+      <img src="https://img.shields.io/badge/Data--Driven%20Insights-44351A?style=flat-square&logo=powerbi&logoColor=F2C811" />
+      <p>Using Python, SQL, and dashboards to discover patterns and meaningful insights.</p>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/01-MERN%20Stack-0A192F?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-  &nbsp; ➜ &nbsp;
-  <img src="https://img.shields.io/badge/02-Generative%20AI-0A192F?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
-  &nbsp; ➜ &nbsp;
-  <img src="https://img.shields.io/badge/03-RAG%20%26%20LLMs-0A192F?style=for-the-badge&logo=langchain&logoColor=00D4AA" />
-  &nbsp; ➜ &nbsp;
-  <img src="https://img.shields.io/badge/04-Data%20Analytics-0A192F?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+  <b>From building applications to exploring AI and turning data into insights.</b>
 </p>
 
 <p align="center">
-  <b>From building full-stack applications to exploring AI-powered solutions and data-driven insights.</b>
-</p>
-
-<p align="center">
-  <i>Learning continuously. Connecting ideas. Turning data and AI into meaningful solutions.</i>
+  <i>Learn continuously · Build thoughtfully · Keep evolving</i>
 </p>
 
 
 ---
+
 
 
 ## ✨ Dev Quote
