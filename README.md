@@ -93,39 +93,55 @@
 
 ## 🚀 My Developer Journey
 
+<p align="center">
+  Exploring software engineering, intelligent applications, and data-driven solutions.
+</p>
+
 <table>
   <tr>
-    <td align="center" width="50%">
-      <h3>💻 01. MERN Stack</h3>
-      <img src="https://img.shields.io/badge/Full--Stack%20Development-0A192F?style=flat-square&logo=react&logoColor=61DAFB" />
-      <p>Building responsive web applications, backend APIs, and full-stack solutions.</p>
+    <td width="50%" valign="top">
+      <h3>💻 MERN Stack</h3>
+      <img src="https://img.shields.io/badge/Full--Stack%20Development-2563EB?style=flat-square&logo=react&logoColor=white" />
+
+      <p>Building responsive web applications with frontend interfaces, backend APIs, authentication, and databases.</p>
+
+      <b>Focus:</b> React · Node.js · Express · MongoDB
     </td>
-    <td align="center" width="50%">
-      <h3>🤖 02. Generative AI</h3>
-      <img src="https://img.shields.io/badge/LLMs%20%26%20AI%20Agents-282044?style=flat-square&logo=openai&logoColor=FFFFFF" />
-      <p>Exploring LLMs, prompt engineering, and intelligent AI-powered applications.</p>
+    <td width="50%" valign="top">
+      <h3>🤖 Generative AI</h3>
+      <img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=flat-square&logo=openai&logoColor=white" />
+
+      <p>Exploring large language models, prompt engineering, and AI agents for practical applications.</p>
+
+      <b>Focus:</b> LLMs · Prompt Engineering · AI Agents
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <h3>🔎 03. RAG & LLMs</h3>
-      <img src="https://img.shields.io/badge/Knowledge%20Retrieval-163D3B?style=flat-square&logo=langchain&logoColor=62E6C5" />
-      <p>Connecting language models with relevant knowledge through retrieval and vector search.</p>
+    <td width="50%" valign="top">
+      <h3>🔎 RAG & Knowledge Systems</h3>
+      <img src="https://img.shields.io/badge/RAG%20%26%20Vector%20Search-0D9488?style=flat-square&logo=langchain&logoColor=white" />
+
+      <p>Connecting language models with relevant information using retrieval, embeddings, and vector search.</p>
+
+      <b>Focus:</b> RAG · Embeddings · Retrieval
     </td>
-    <td align="center" width="50%">
-      <h3>📊 04. Data Analytics</h3>
-      <img src="https://img.shields.io/badge/Data--Driven%20Insights-44351A?style=flat-square&logo=powerbi&logoColor=F2C811" />
-      <p>Using Python, SQL, and dashboards to discover patterns and meaningful insights.</p>
+    <td width="50%" valign="top">
+      <h3>📊 Data Analytics</h3>
+      <img src="https://img.shields.io/badge/Data%20Analytics-F59E0B?style=flat-square&logo=powerbi&logoColor=white" />
+
+      <p>Analyzing data, discovering patterns, and communicating insights through queries and dashboards.</p>
+
+      <b>Focus:</b> Python · SQL · Data Visualization
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <b>From building applications to exploring AI and turning data into insights.</b>
+  <b>Build applications · Explore AI · Connect knowledge · Discover insights</b>
 </p>
 
 <p align="center">
-  <i>Learn continuously · Build thoughtfully · Keep evolving</i>
+  <i>Always learning. Always building. Always improving.</i>
 </p>
 
 
