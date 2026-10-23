@@ -83,6 +83,9 @@
 
 ---
 
+
+---
+
 ## 💠 Contribution Animation
 
 <p align="center">
@@ -98,7 +101,7 @@
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.screw-hand.com/?username=KalagiPandya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
+    src="https://github-profile-trophy.vercel.app/?username=KalagiPandya&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"
     alt="GitHub Achievements"
     width="100%">
 </p>
