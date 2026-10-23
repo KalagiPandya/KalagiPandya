@@ -35,7 +35,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KalagiPandya&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KalagiPandya&theme=tokyonight" />
-</p> why this is not display on github
+
 ---
 
 
