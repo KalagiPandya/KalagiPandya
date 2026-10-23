@@ -95,9 +95,9 @@
   <tr>
     <td align="center" width="50%" valign="top">
       <br/>
-      <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" height="48" alt="MERN Stack icons"/>
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" height="55" alt="React icon"/>
       <h3>01. MERN Stack</h3>
-      <img src="https://img.shields.io/badge/Full--Stack%20Development-2563EB?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Full--Stack%20Development-2563EB?style=for-the-badge" alt="Full Stack Development"/>
       <br/><br/>
       Building full-stack applications with responsive interfaces, secure APIs, and database integration.
       <br/><br/>
@@ -106,9 +106,9 @@
     </td>
     <td align="center" width="50%" valign="top">
       <br/>
-      <img src="https://skillicons.dev/icons?i=python,openai&theme=dark" height="48" alt="Generative AI technology icons"/>
+      <img src="https://skillicons.dev/icons?i=openai&theme=dark" height="55" alt="OpenAI icon"/>
       <h3>02. Generative AI</h3>
-      <img src="https://img.shields.io/badge/Generative%20AI-8B5CF6?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Generative%20AI-8B5CF6?style=for-the-badge" alt="Generative AI"/>
       <br/><br/>
       Exploring large language models, prompt engineering, and AI agents for intelligent applications.
       <br/><br/>
@@ -119,9 +119,9 @@
   <tr>
     <td align="center" width="50%" valign="top">
       <br/>
-      <img src="https://skillicons.dev/icons?i=python&theme=dark" height="48" alt="Python icon"/>
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" height="55" alt="Python icon"/>
       <h3>03. RAG & Knowledge Systems</h3>
-      <img src="https://img.shields.io/badge/RAG%20%26%20Vector%20Search-0D9488?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/RAG%20%26%20Vector%20Search-0D9488?style=for-the-badge" alt="RAG and Vector Search"/>
       <br/><br/>
       Connecting AI models with relevant information to build context-aware, knowledge-driven applications.
       <br/><br/>
@@ -130,9 +130,9 @@
     </td>
     <td align="center" width="50%" valign="top">
       <br/>
-      <img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" height="48" alt="Python and SQL technology icons"/>
+      <img src="https://img.icons8.com/color/96/power-bi.png" height="55" alt="Microsoft Power BI icon"/>
       <h3>04. Data Analytics</h3>
-      <img src="https://img.shields.io/badge/Data%20Analytics-F59E0B?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Data%20Analytics-F59E0B?style=for-the-badge" alt="Data Analytics"/>
       <br/><br/>
       Transforming raw data into meaningful insights through analysis, SQL queries, and interactive dashboards.
       <br/><br/>
@@ -149,7 +149,6 @@
 <p align="center">
   <i>Learn continuously · Build meaningfully · Keep evolving</i>
 </p>
-
 
 ---
 
